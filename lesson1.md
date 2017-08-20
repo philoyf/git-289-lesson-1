@@ -4,11 +4,6 @@
 ----
 Fu Ouyang
 
-
-日期
-----
-2017/08/19
-
 Github Username
 ---------------
 philoyf
@@ -18,3 +13,8 @@ philoyf
 - 閱讀
 - 旅遊
 - 籃球
+
+我最喜歡的程式語言
+---------------
+- Python
+- LabVIEW
